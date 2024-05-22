@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmt2djRkYTJoam93eno3Y292cThvbXM1dHBubmZub2hqNjdnZmluNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif)
+![MasterHead](https://i.pinimg.com/originals/ca/e1/1d/cae11df222ff8639d02aa7b81d1d296a.gif)
 <h1 align="center">Hi 👋, I'm Vasilev Artem</h1>
 <h3 align="center">A ML engineer from Russia</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppNDhzOTEwNG84OWp0cHpvOGtzcW5mczBrOThvcjgxY3Nna2JyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif">
