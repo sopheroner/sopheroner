@@ -20,13 +20,6 @@
 
 
 <h3 align="center">📈 Stats 📈</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sopheroner&show_icons=true&theme=cobalt" alt="sopheroner"></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheroner&layout=compact&theme=cobalt" alt="sopheroner"></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://kaggle.com/sopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sopher" height="30" width="40" /></a>
-</p>
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sopheroner&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sopheroner&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
