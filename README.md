@@ -21,8 +21,6 @@
 
 <h3 align="center">📈 Stats 📈</h3>
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=sopheroner&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sopheroner&theme=tokyonight&hide_border=true" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sopheroner&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sopheroner&theme=tokyonight&hide_border=true)
 
