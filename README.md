@@ -21,7 +21,7 @@
 
 <h3 align="center">📈 Stats 📈</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sopheroner&show_icons=true&theme=cobalt" alt="sopheroner"></p>
-<p><img align="right" height=195 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheroner&layout=compact&theme=cobalt" alt="sopheroner"></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopheroner&layout=compact&theme=cobalt" alt="sopheroner"></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
