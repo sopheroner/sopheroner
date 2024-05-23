@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNibzl1azA1NmkyampnYmNwMm1tbmc0N283Zzg3cjg0ZnpkdzhvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qb1eHxhUHLdsc/giphy-downsized-large.gif" width="1080" height="400">
 <h1 align="center">Hi 👋, I'm Vasilev Artem</h1>
 <h3 align="center">🌍 A ML engineer from Russia 🌍</h3>
-<img align="right" alt="Coding" height="200" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ1eHV5dDd3dTdqMTJ5dHVhZXY1Z2Q5Ym56YzJ0dHNvcjV2ajFmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" style="height: auto; width: 55%;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ1eHV5dDd3dTdqMTJ5dHVhZXY1Z2Q5Ym56YzJ0dHNvcjV2ajFmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sopheroner&label=Profile%20views&color=0e75b6&style=flat" alt="sopheroner" /> </p>
